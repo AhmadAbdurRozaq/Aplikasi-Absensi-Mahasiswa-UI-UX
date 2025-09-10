@@ -11,6 +11,7 @@ Tujuan dari desain ini adalah untuk menghadirkan tampilan antarmuka yang sederha
 
 ## Link Desain Figma ##
 [Lihat Desain di Figma](https://www.figma.com/design/Wqso0aiGQZgXYtm6mgeCdl/Aplikasi-Absensi-Mahasiswa?node-id=0-1&t=OZ6sjtZgZupBc4dg-1)
+<img width="1409" height="957" alt="Group 43" src="https://github.com/user-attachments/assets/682ee26c-5c6d-4353-87ec-2a3ae97fdc99" />
 
 **Catatan**:  
 File desain dapat dikembangkan lebih lanjut menjadi aplikasi Flutter untuk implementasi nyata.  
